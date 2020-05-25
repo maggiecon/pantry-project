@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micronaut.test:micronaut-test-kotlintest:1.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut.test/micronaut-test-kotlintest/1.1.2/2a87ae87fd8bd67f126b6c5daaab30260b40aef0/micronaut-test-kotlintest-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut.test/micronaut-test-kotlintest/1.1.2/fcdb76f282c23018a714919e8a9211141fea1522/micronaut-test-kotlintest-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

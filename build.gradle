@@ -1,0 +1,9 @@
+version "0.1"
+group "com.connell"
+
+allprojects {
+    repositories {
+        mavenCentral()
+        maven { url "https://jcenter.bintray.com" }
+    }
+}

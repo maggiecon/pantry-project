@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: pantryproject
+mongodb:
+  uri: mongodb://username:password@localhost:27017/databaseName
